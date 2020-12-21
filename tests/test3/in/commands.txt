@@ -1,0 +1,24 @@
+show
+move 1
+show
+turnleft 1
+move 1
+show
+turnleft 1
+move 1
+show
+turnleft 1
+move 1
+show
+turnleft 1
+move 1
+show
+turnright 1
+move 1
+move 1
+show
+turnright 1
+turnright 1
+show
+move 1
+show
