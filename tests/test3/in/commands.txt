@@ -1,24 +1,33 @@
+within 1
+within 0
+within 10
+travelled
 show
+move 10
+move 10
+move 10
 move 1
 show
 turnleft 1
-move 1
-show
 turnleft 1
 move 1
 show
-turnleft 1
-move 1
-show
-turnleft 1
 move 1
 show
 turnright 1
 move 1
+show
+turnright 1
 move 1
 show
 turnright 1
-turnright 1
+move 1
 show
 move 1
 show
+turnleft 1
+turnleft 1
+move 1
+show
+travelled
+within 10
